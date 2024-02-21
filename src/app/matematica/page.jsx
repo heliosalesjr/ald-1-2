@@ -17,11 +17,7 @@ function Matematica() {
     <>
         
         <MatHero />
-        <MatVideos />
-        <Divider className='max-w-5xl mx-auto'/>
-        <MatVideoPorcentagem  />
-        <MatVideosPizza />
-        <MatPolinomios />
+        
         <Divider className='max-w-5xl mx-auto'/>
         <MatButton />
         

@@ -21,7 +21,7 @@
 }
 
 :root {
-  --primary: #fbb416;
+  --primary: #8ac874;
   --secondary: #0592D7(31, 209, 253, 0.4);
   --tertiary: rgb(251, 251, 252);
 }
@@ -42,5 +42,5 @@
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background-color: var(--tertiary);
+  background-color: var(--secondary);
 }

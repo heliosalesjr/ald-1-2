@@ -10,7 +10,7 @@ const MatHero = () => {
             Matemática e Educação Financeira
             </h1>
             <p className="text-lg text-white py-8">
-            Nesta seção vamos retomar os conceitos de Matemática e Educação Financeira envolvidos na segunda parte do Livro do Estudante: Operações com números racionais na representação fracionária, Porcentagem, Gráficos de pizza, Função Polinomial de 1º grau, Juros e Poupança.
+            Nesta seção vamos retomar os conceitos de Matemática e Educação Financeira envolvidos na segunda parte do Livro do Estudante: Progressão Aritmética (P.A), Função do 1º grau, Função do 2º grau, Juros Simples, Lucro, receita e custo, Oferta e demanda, Determinação do preço e Juros Simples.
             </p>
             </div>
             <div className="hidden md:block">
