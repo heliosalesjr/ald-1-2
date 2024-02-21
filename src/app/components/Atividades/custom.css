@@ -1,0 +1,28 @@
+/* SeuComponente.module.css */
+
+.skewContainer::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: url('/images/relembrando.jpg');  
+    background-size: cover;
+    background-position: center right;
+    transform-origin: 0% 100%;
+    transform: skew(-15deg);
+    z-index: -1;
+  }
+  
+  .textHalf {
+    width: 50%;
+    float: left;
+    z-index: 1;  /* Garante que o texto fica sobre a imagem */
+  }
+  
+  .imageHalf {
+    width: 50%;
+    float: left;
+  }
+  
